@@ -1,9 +1,9 @@
 # Hometask 1
 
-1. Problem 1: "src/ProblemI"
-2. Problem 2: "src/ProblemII"
-3. Problem 3: "src/ProblemIII"
-4. Problem 4: "src/ProblemIV"
+1. Problem 1: "src/MathCalc.java"
+2. Problem 2: "src/Primes.java"
+3. Problem 3: "src/StringCharacters.java"
+4. Problem 4: "src/StringCharacters2.java"
 
 ## Student Info
 Name: Mustafa Hasan Ali  
@@ -20,6 +20,6 @@ Contact:
 
 
 ## Development environment:
-Microsoft Windows 11
-JAVA JDK v17
-VSCode
+Microsoft Windows 11  
+JAVA JDK v17  
+VSCode  
